@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738865991
+default_env.tres::Environment::-1::1546780644::0::1::::<><>::
+icon.png::CompressedTexture2D::6247590876367423437::1546780644::1738865992::1::::<><>::
+osc_receiver.gd::GDScript::-1::1546780644::0::1::::<>Object<>::
+osc_sender.gd::GDScript::-1::1546780644::0::1::::<>Object<>::
+scene.tscn::PackedScene::-1::1546780644::0::1::::<><>::res://osc_sender.gd<>res://osc_receiver.gd
+::res://addons/::1738865980
+::res://addons/gdosc/::1738865980
+gdscript_oscreceiver_template.gd::GDScript::-1::1546780644::0::1::::<>Object<>::
+gdscript_oscsender_template.gd::GDScript::-1::1546780644::0::1::::<>Object<>::
+::res://addons/gdosc/bin/::1738865980
